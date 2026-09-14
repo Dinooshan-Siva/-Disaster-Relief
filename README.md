@@ -554,7 +554,7 @@ sensors.c / sensors.h
 
 ### Project Duration
 
-**February 2026 – April 2026**
+**December 2025 – April 2026**
 
 ---
 
@@ -562,16 +562,10 @@ sensors.c / sensors.h
 
 ## Dinooshan
 
-**Final Year Undergraduate**
+**Final Year Undergraduate Student**
 
 Department of Electrical and Electronic Engineering
 University of Jaffna
-
----
-
-## ⭐ Support
-
-If you found this project useful or interesting, consider giving the repository a **⭐ Star**.
 
 ---
 
@@ -580,10 +574,10 @@ If you found this project useful or interesting, consider giving the repository 
 </p>
 
 <p align="center">
-  Developed by <b>Dinooshan</b>
+  Developed by <b>Dinooshan Sivashanmuganthan</b>
 </p>
 
 <p align="center">
-  Department of Electrical and Electronic Engineering<br>
+  Department of Electrical and Electronics Engineering<br>
   University of Jaffna
 </p>
