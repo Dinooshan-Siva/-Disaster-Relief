@@ -560,7 +560,7 @@ sensors.c / sensors.h
 
 # 👤 Author
 
-## Dinooshan
+## Dinooshan Sivashanmuganathan
 
 **Final Year Undergraduate Student**
 
